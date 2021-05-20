@@ -53,9 +53,9 @@ uint64_t _micros = 0;
 float EncoderVel = 0;
 float W = 0.00;
 float rpm = 0.00;
-//int CW = 0;
+
 float last=0;
-//int CCW = 0;
+
 float Kp = 5;
 float Ki = 0.05;
 float Kd = 0.2;
